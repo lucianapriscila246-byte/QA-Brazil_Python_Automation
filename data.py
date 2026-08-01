@@ -1,5 +1,5 @@
 # URL do site UrbanRoutes
-URBAN_ROUTES_URL = 'https://cnt-befdfc0c-62bc-4262-8680-37b610459d3d.containerhub.tripleten-services.com?lng=pt'
+URBAN_ROUTES_URL = 'https://cnt-bc50e784-9136-40b1-bc1a-8d04c715d5c6.containerhub.tripleten-services.com?lng=pt'
 
 
 # CONSTANTES DE USO NO TESTE
@@ -12,3 +12,4 @@ CARD_NUMBER = '1234 5678 9100'
 CARD_CODE = '1111'
 
 MESSAGE_FOR_DRIVER = 'Pare no bar de sucos'
+
