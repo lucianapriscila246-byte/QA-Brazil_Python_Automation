@@ -1,5 +1,5 @@
 # URL do site UrbanRoutes
-URBAN_ROUTES_URL = 'https://cnt-bc50e784-9136-40b1-bc1a-8d04c715d5c6.containerhub.tripleten-services.com?lng=pt'
+URBAN_ROUTES_URL = 'https://cnt-edd8b6f5-6347-4241-a25d-665ea30439eb.containerhub.tripleten-services.com?lng=pt'
 
 
 # CONSTANTES DE USO NO TESTE
