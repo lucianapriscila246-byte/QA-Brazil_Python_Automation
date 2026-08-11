@@ -199,12 +199,12 @@ class UrbanRoutesPage:
 
     def select_comfort_tariff(self):
         cards = self.wait.until(
-            EC.visibility_of_all_elements_located(self.TARIFF_CARDS)
+            EC.visibility_of_all_elements_located(
+                self.TARIFF_CARDS
+            )
         )
-        comfort_card = cards[4]
 
-        if "active" not in comfort_card.get_attribute("class"):
-            comfort_card.click()
+        cards[4].click()
 
     def select_supportive_plan(self):
         self.select_comfort_tariff()
